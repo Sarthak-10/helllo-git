@@ -2,3 +2,7 @@ This is a mirror program which returns the same string as is given by the user.
 
 str=int(input())
 print(str)
+
+//You could directly have written as like 
+print(int(input())
+//rather than doing what you did

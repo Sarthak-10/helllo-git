@@ -1,2 +1,7 @@
 str=int(input())
 str=str.reverse()
+//according to me there is no function inpython as reverse so you need to do the following to reverse the string
+str2=""
+for i in range(len(str)-1,1,-1):
+  str2+=str[i]
+  

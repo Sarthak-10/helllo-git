@@ -1,0 +1,4 @@
+This is a mirror program which returns the same string as is given by the user.
+
+str=int(input())
+print(str)
